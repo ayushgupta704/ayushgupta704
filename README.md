@@ -29,7 +29,7 @@ public class Ayush {
 }
 ```
 
-
+<div align="center">
 ## Connect with me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-85a7262bb/) 
 
@@ -51,5 +51,5 @@ public class Ayush {
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushgupta704&icon=2&color=7)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
