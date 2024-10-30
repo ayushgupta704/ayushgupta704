@@ -1,5 +1,5 @@
 <div align="center">
-<p><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1YXh3MmQ2dXE2bzFjazJrdWV4YjJ1cHZ0M29yZDMzcGwyc250YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2BvIUXHgd5ys6xPLNB/giphy.webp" width="200px" height="200px"><br>, I'm <h4>Ayush</h4></p></br>
+<p><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1YXh3MmQ2dXE2bzFjazJrdWV4YjJ1cHZ0M29yZDMzcGwyc250YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2BvIUXHgd5ys6xPLNB/giphy.webp" width="200px" height="200px"><h4>I'm Ayush</h4></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=I+am+tech+enthusiast%2C+explore;and+passionate+about+solving+problems;++++++++++through+code" alt="Typing SVG" /></a>
 </div>
