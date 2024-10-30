@@ -30,6 +30,8 @@ public class Ayush {
 ```
 
 <div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 	
 ## Connect with me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-85a7262bb/) 
@@ -45,7 +47,7 @@ public class Ayush {
 ![](https://github-profile-trophy.vercel.app/?username=ayushgupta704&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayushgupta704&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
