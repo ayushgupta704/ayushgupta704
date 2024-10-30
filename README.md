@@ -15,7 +15,7 @@ public class Ayush {
     private String[] framework = {"Django", "React","numpy","pandas"};
     private String[] tools = {"Vscode", "Pycharm"};
     private String[] lookingToGetStartedWith = {"Web3"};
-    private String[] askMeAbout = {"Web Development","Data Structures and Algorthims",", "Machine Learning"};
+    private String[] askMeAbout = {"Web Development","Data Structures and Algorthims","Machine Learning"};
 
     public static void main(String[] args) {
         Ayush  Ayush = new Ayush();
