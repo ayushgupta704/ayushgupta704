@@ -7,7 +7,7 @@
 <h1><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd0b210aDZza2E3emFzNjR0ZDlyNDhtcXIwcDhnZDNqNXNhd294eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/93lywvXdUlArzhrASa/giphy.webp" width="60px" height="40px">About Me</h1>
 
 ```java
-import universe.milky_way.solar_system.earth.asia.southasia.india.pune;
+import universe.milky_way.earth.india.delhi;
 
 public class Ayush {
     private String name = "Ayush";
