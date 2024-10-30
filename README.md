@@ -4,6 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+tech+enthusiast%2Cexplorer;and+passionate+about+solving+problems;through+code" alt="Typing SVG" /></a>
 
 </div>
+<h1><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd0b210aDZza2E3emFzNjR0ZDlyNDhtcXIwcDhnZDNqNXNhd294eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/93lywvXdUlArzhrASa/giphy.webp" width="60px" height="40px">About Me</h1>
+
 
 ## Connect with me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-85a7262bb/) 
