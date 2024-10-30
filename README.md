@@ -32,6 +32,8 @@ public class Ayush {
 
 <div align="center">
 
+<img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
