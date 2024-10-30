@@ -1,6 +1,5 @@
 <div align="center">
-<p><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1YXh3MmQ2dXE2bzFjazJrdWV4YjJ1cHZ0M29yZDMzcGwyc250YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2BvIUXHgd5ys6xPLNB/giphy.webp" width="100px" height="100px">, I'm <a href = "">Ayush</a></p>
-## Hi I'm Ayush
+<p><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1YXh3MmQ2dXE2bzFjazJrdWV4YjJ1cHZ0M29yZDMzcGwyc250YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2BvIUXHgd5ys6xPLNB/giphy.webp" width="150px" height="150px">, I'm <a href = "">Ayush</a></p>
 </div>
 
 ## Connect with me
