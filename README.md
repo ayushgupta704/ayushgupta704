@@ -6,6 +6,33 @@
 </div>
 <h1><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd0b210aDZza2E3emFzNjR0ZDlyNDhtcXIwcDhnZDNqNXNhd294eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/93lywvXdUlArzhrASa/giphy.webp" width="60px" height="40px">About Me</h1>
 
+```java
+import universe.milky_way.solar_system.earth.asia.southasia.india.pune;
+
+public class VaishnaviKale {
+    private String name = "Vaishnavi Kale";
+    private String pronouns = {"she, her, hers"};
+    private String[] code = {"Java", "Python", "JavaScript", "C", "SQL", "R"};
+    private String[] framework = {"React JS", "Tailwind CSS"};
+    private String[] devOps = {"Docker"};
+    private String[] tools = {"Figma", "Android Studio"};
+    private String[] lookingToGetStartedWith = {"Web3"};
+    private String[] askMeAbout = {"Web Development", "Machine Learning", "DevOps", "Data Structures"};
+    private String funFact = "I am a night owl and Clinophile";
+
+    public static void main(String[] args) {
+        VaishnaviKale vaishnaviKale = new VaishnaviKale();
+        System.out.println("👋 Hey there! I'm " + vaishnaviKale.name);
+	System.out.println("😄 Pronouns: " + String.join("|",vaishnaviKale.pronouns);
+        System.out.println("🔧 I work with languages like " + String.join(", ", vaishnaviKale.code));
+        System.out.println("🚀 Currently diving into " + String.join(", ", vaishnaviKale.lookingToGetStartedWith));
+        System.out.println("💬 Ask me about " + String.join(", ", vaishnaviKale.askMeAbout));
+        System.out.println("🌟 Fun Fact: " + vaishnaviKale.funFact);
+        System.out.println("📍 Based in " + pune.getCity());
+    }
+}
+```
+
 
 ## Connect with me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-85a7262bb/) 
