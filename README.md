@@ -14,11 +14,9 @@ public class Ayush {
     private String pronouns = {"He"};
     private String[] code = {"Python","Java", "JavaScript", "C",};
     private String[] framework = {"Django", "React"};
-    /*private String[] devOps = {"Docker"};*/
     private String[] tools = {"Vscode", "Pycharm"};
-    //private String[] lookingToGetStartedWith = {"Web3"};
+    private String[] lookingToGetStartedWith = {"Web3"};
     private String[] askMeAbout = {"Web Development","Data Structures and Algorthims"};
-    //private String funFact = "I am a night owl and Clinophile";
 
     public static void main(String[] args) {
         Ayush  Ayush = new Ayush();
@@ -27,7 +25,6 @@ public class Ayush {
         System.out.println("🔧 I work with languages like " + String.join(", ", Ayush.code));
         System.out.println("🚀 Currently diving into " + String.join(", ", Ayush.lookingToGetStartedWith));
         System.out.println("💬 Ask me about " + String.join(", ", Ayush.askMeAbout));
-        //System.out.println("🌟 Fun Fact: " + vaishnaviKale.funFact);
         System.out.println("📍 Based in " + Delhi.getCity());
     }
 }
