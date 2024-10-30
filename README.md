@@ -1,7 +1,8 @@
 <div align="center">
 <p><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1YXh3MmQ2dXE2bzFjazJrdWV4YjJ1cHZ0M29yZDMzcGwyc250YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2BvIUXHgd5ys6xPLNB/giphy.webp" width="200px" height="200px">I'm <a href="https://github.com/ayushgupta704">Ayush</h4></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=I+am+tech+enthusiast%2C+explore;and+passionate+about+solving+problems;++++++++++through+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=I+am+tech+enthusiast%2C+explorer;and+passionate+about+solving+problems;++++++++++through+code" alt="Typing SVG" /></a>
+
 </div>
 <h1><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd0b210aDZza2E3emFzNjR0ZDlyNDhtcXIwcDhnZDNqNXNhd294eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/93lywvXdUlArzhrASa/giphy.webp" width="60px" height="40px">About Me</h1>
 
