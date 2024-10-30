@@ -11,7 +11,6 @@ import universe.milky_way.earth.india.delhi;
 
 public class Ayush {
     private String name = "Ayush";
-    private String pronouns = {"He"};
     private String[] code = {"Python","Java", "JavaScript", "C",};
     private String[] framework = {"Django", "React","numpy","pandas"};
     private String[] tools = {"Vscode", "Pycharm"};
