@@ -63,7 +63,7 @@ public class Ayush {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushgupta704&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-###  Random Dev Quote
+
 
 
 ### 🔝 Top Contributed Repo
