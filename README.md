@@ -55,7 +55,7 @@ public class Ayush {
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=py,django,java,numpy,pandas,html,css,js,nodejs,react,tailwind,sql,c"/>
+   <img src="https://skillicons.dev/icons?i=py,django,java,html,css,js,nodejs,react,tailwind,sql,postman,c"/>
   </a>
 </p>
 
