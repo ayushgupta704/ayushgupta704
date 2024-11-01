@@ -44,7 +44,7 @@ public class Ayush {
 <div align="center">
 
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=discord,linkdlin"/>
+   <img src="https://skillicons.dev/icons?i=discord,linkedlin"/>
   </a>
   
 </div>
