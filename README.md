@@ -73,7 +73,7 @@ public class Ayush {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta704&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://komarev.com/ghpvc/?username=ayushgupta704&style=flat-square&label=PROFILE VIEWS)
+![](https://komarev.com/ghpvc/?username=ayushgupta704&style=flat-square)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushgupta704&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
