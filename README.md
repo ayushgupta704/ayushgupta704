@@ -39,7 +39,7 @@ public class Ayush {
 </div>
  
 <h1><img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVzMzcwb2NqMW9qeXJnbXdmMGlhOHAwN3kwdThhMDZtdzhpejc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WnwVJT0hMsLzpvoLuq/giphy.webp" width="60" height="60px">Connect with Me<h1>
-
+<p style="color:red;">Email📧:<a href="mail2ayushgupta@gmail.com">mail2ayushgupta@gmail.com</p>
 
 <div align="center">
 
