@@ -76,12 +76,6 @@ public class Ayush {
 
 ![](https://komarev.com/ghpvc/?username=ayushgupta704&style=flat-square&color=red&base=1000)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayushgupta704&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayushgupta704&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
